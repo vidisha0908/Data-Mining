@@ -1,0 +1,8 @@
+Output of KMeans.py:
+
+Output of KMeansSynthetic.py:
+
+Output of KMeansplusplus.py:
+
+Output of BisectingKMeans.py:
+
